@@ -1,0 +1,6 @@
+Rank	Average Salary
+assistant	 65949
+full	 102229
+associate	 83849
+The employee with lowest salary isLastName820, F.: assistant (50009.26)
+The employee with highest salary isLastName476, F.: full (129975.83)

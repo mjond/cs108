@@ -1,0 +1,6 @@
+My project will be a dodging game. The object of the game will be to dodge blocks as they fall from the sky. 
+The user will control a circle at the bottom of the screen. The user will use the mouse to move the circle
+around the canvas. The game will be over when the user touches one of the falling blocks. The score will 
+be how many blocks were dodged or how much time as passed. There will be different difficulties and the more 
+difficult will have different speeds and sizes of blocks falling. Also, a 'start', 'resume', and 'quit' button
+will be on the window. 

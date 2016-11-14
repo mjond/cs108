@@ -1,0 +1,5 @@
+color green
+pendown
+goto 45 89
+point 15 200 -23
+penup
